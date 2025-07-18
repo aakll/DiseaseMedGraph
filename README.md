@@ -1,6 +1,3 @@
-# DiseaseMedGraph
-A knowledge graph visualizing diseases, symptoms, and treatments using Python.
-
 # DiseaseMedGraph 🦠💊
 
 This project visualizes relationships between diseases, symptoms, and treatments using a knowledge graph.
